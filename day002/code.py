@@ -1,3 +1,4 @@
+#types
 print(type(123)) #int
 
 print(type("123")) #str
