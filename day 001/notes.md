@@ -7,3 +7,4 @@
 
 ## Useful Resource
 - **Stack Overflow** – useful for finding solutions to programming errors.
+- **w3schools** - useful for learning new things

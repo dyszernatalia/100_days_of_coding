@@ -1,4 +1,3 @@
-print("Hello it's name band generator")
-animal = input("your name")
+animal = input("your favourite animal")
 long = len(animal)
 print(long)
