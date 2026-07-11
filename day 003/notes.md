@@ -4,3 +4,4 @@
 - if/else 
 - diagrams
 - **modulo** %
+- logical operators
