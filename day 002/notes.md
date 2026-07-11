@@ -1,4 +1,4 @@
-# Day 1 - Calculator
+# Day 2 - Calculator
 
 ## What I Learned
 - **Data types**:
