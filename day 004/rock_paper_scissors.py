@@ -45,6 +45,9 @@ if player_choose >= 3 or player_choose < 0:
 elif player_choose == 0 and computer_choose == 2:
     print("You win!")
 
+elif player_choose == 2 and computer_choose == 0:
+    print("You lose!")
+
 elif computer_choose > player_choose:
     print("You lose!")
 
@@ -53,6 +56,3 @@ elif (computer_choose < player_choose):
 
 elif computer_choose == player_choose:
     print("it's a draw!")
-
-elif player_choose == 2 and computer_choose == 0:
-    print("You lose!")
