@@ -1,5 +1,6 @@
-# Day 3 - Rock, paper, scissors
+# Day 4 - Rock, paper, scissors
 
 ## What I Learned
 - Random function
 - module 
+- lists
