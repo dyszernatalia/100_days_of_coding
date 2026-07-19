@@ -5,4 +5,6 @@
 ```python
 def function_name():
     # what to do
+
+function_name() #calling function
 ```
